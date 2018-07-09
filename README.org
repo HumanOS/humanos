@@ -1,4 +1,4 @@
-* cryptows
+* humanos
 
 
 [[https://travis-ci.org/dimitar-petrov/cryptows][https://travis-ci.org/humanos/homanos.svg?branch=master]]
