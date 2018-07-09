@@ -1,0 +1,2 @@
+(defpackage :humanos
+  (:use :cl))

@@ -1,0 +1,10 @@
+* cryptows
+
+
+[[https://travis-ci.org/dimitar-petrov/cryptows][https://travis-ci.org/humanos/homanos.svg?branch=master]]
+
+
+License
+-------
+
+This code is licensed under the [[https://github.com/humanos/humanos/blob/master/LICENSE][MIT License]]
